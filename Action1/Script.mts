@@ -12,7 +12,6 @@ Browser("Browser").Page("Facebook").WebButton("Don't Save").Click @@ hightlight 
 Browser("Browser").Page("Facebook_2").Link("Ra Bee").Click @@ hightlight id_;_Browser("Browser").Page("Facebook 2").Link("Ra Bee")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("Browser").Page("Ra Bee").Link("Account Settings").Click @@ hightlight id_;_Browser("Browser").Page("Ra Bee").Link("Account Settings")_;_script infofile_;_ZIP::ssf9.xml_;_
 Browser("Browser").Page("Ra Bee").WebButton("Log Out").Click @@ hightlight id_;_Browser("Browser").Page("Ra Bee").WebButton("Log Out")_;_script infofile_;_ZIP::ssf12.xml_;_
- @@ hightlight id_;_Browser("Browser").Page("Welcome to Facebook -_2")_;_script infofile_;_ZIP::ssf13.xml_;_
 Browser("Browser").CloseAllTabs
 
 
